@@ -1,0 +1,55 @@
+.square {
+  height: 423px;
+  background-color: #425fa2;
+  display: flex;
+  justify-content: space-around;
+}
+
+.space {
+  height: 400px;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.backgroundimg {
+  background-image: url(../img/icon/rectangle2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.background {
+  background-color: #425fa2;
+}
+
+.img-rounded {
+  border-radius: 150px;
+}
+
+.btnMenu {
+  background-color: #5a81db;
+  box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 50px;
+  transition: 0.5s;
+}
+
+.btnMenu:hover {
+  background-color: #f76125;
+}
+
+.btnMenu {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.pos-page {
+  margin-top: 7% !important;
+}
+
+strong {
+  color: orange;
+}

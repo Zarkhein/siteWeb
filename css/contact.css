@@ -1,0 +1,50 @@
+html {
+  overflow-x: hidden;
+}
+.background {
+  background-color: bisque;
+  background-image: url(../img/Display/carteContact.png);
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+  height: 250px;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.responsable {
+  font-size: 2rem;
+  line-height: 1.5;
+  border: 1px solid whitesmoke;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 25px;
+  background-color: #2c3f6b;
+}
+
+.info {
+  width: 100%;
+  background-color: #2c3f6b;
+}
+
+#espace {
+  margin-top: 25%;
+}
+
+#espace p {
+  margin-top: 25%;
+}
+
+.grp-info img {
+  margin-top: 10px;
+  width: 32px;
+  height: 32px;
+  float: left;
+}
+
+.grp-info {
+  padding-left: 10%;
+  padding-right: 10%;
+}

@@ -1,0 +1,17 @@
+.test {
+  position: absolute;
+  margin-left: 15%;
+  z-index: 0;
+}
+
+.haut {
+  position: relative;
+  z-index: 1;
+  margin-left: 16%;
+  color: white;
+  font-size: auto;
+}
+
+html {
+  background-color: #5a81db;
+}

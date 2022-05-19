@@ -1,0 +1,29 @@
+.site h1 {
+  color: white;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.site li {
+  font-size: 25px;
+}
+
+.space {
+  margin-top: 36%;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.site {
+  border: 1px solid white;
+  border-radius: 5px;
+  margin: 2%;
+  background-color: #2c3f6b;
+}
+
+#sitemap a:visited {
+  color: red;
+}
