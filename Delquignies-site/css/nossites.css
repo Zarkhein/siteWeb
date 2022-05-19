@@ -1,0 +1,92 @@
+.background {
+  height: 450px;
+  background-image: url("../img/Display/vueDroneDelquignies.jpg");
+  object-fit: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.title-info {
+  color: #f76125;
+  transition: 0.3s;
+}
+
+.info {
+  padding-top: 4.5%;
+  margin-left: 15%;
+}
+
+.bg {
+  background: #425fa2;
+}
+
+.photo {
+  width: 718px;
+  margin-left: 2%;
+}
+
+.article-map {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.article-map p {
+  font-size: 32px;
+}
+
+.map-photo {
+  width: 551px;
+  border: 5px solid #f76125;
+  margin-left: 15%;
+}
+
+.title-gps {
+  font-size: 24px;
+}
+
+.iframe2 {
+}
+
+.title-info:hover {
+  cursor: pointer;
+  color: #f7a331;
+}
+
+.svg {
+  background-image: url(../img/icon/rectangle2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#mainTitle {
+  color: whitesmoke;
+  transition: 0.3s;
+}
+
+.google-maps {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden;
+}
+
+.google-maps iframe {
+  position: absolute;
+  margin-top: 10%;
+  left: 10%;
+  width: 70% !important;
+  height: 70% !important;
+}
+
+.vide {
+  height: 300px;
+  background-color: #5a81db;
+}
+
+strong {
+  color: orange;
+}
