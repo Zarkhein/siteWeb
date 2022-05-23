@@ -25,7 +25,7 @@
     <meta name="Distribution" content="global" />
     <meta name="Geography" content="Mortagne du nord,  France, 59158" />
     <meta name="Category" content="environment" />
-    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon" />
   </head>
   <body onload="breadcrumbs('siteId')">
     <?php include("php/header.php"); ?>
@@ -80,6 +80,7 @@
           >
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2537.9537308553004!2d3.4439904163226926!3d50.49781889183067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2e65d9338a4d5%3A0x7ef71572b9da95b!2sDelquignies%20Logistique!5e0!3m2!1sfr!2sfr!4v1650981600979!5m2!1sfr!2sfr"
+              title="Localisation des sites"
               width="600"
               height="450"
               style="border: 0"
@@ -93,7 +94,7 @@
         </div>
       </div>
     </div>
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
     <script type="text/javascript" src="../js/googleMap.js"></script>
     <script type="text/javascript" src="../js/breadcrumbs.js"></script>
   </body>

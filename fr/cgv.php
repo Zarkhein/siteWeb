@@ -31,7 +31,7 @@
     <meta name="DC.Rating" content="general">
     <meta name="DC.Distribution" content="global">
     <meta name="DC.Category" content="environment">
-    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon">
   </head>
   <body>
     <?php include("php/header.php")?>
@@ -535,6 +535,6 @@
         </div>
       </div>
     </div>
-    <?php include("php/footer.php")?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>

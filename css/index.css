@@ -34,7 +34,7 @@ html {
 }
 
 h1 {
-  color: ghostwhite;
+  color: #f8f8ff;
   background-image: url("../img/icon/rectangle2.svg");
   background-repeat: no-repeat;
   background-position: left 20%;
@@ -95,7 +95,7 @@ h3 {
 }
 
 strong {
-  color: #f76125;
+  color: #eebd48;
 }
 
 .space {

@@ -15,7 +15,7 @@
             <div class="bordure-left float-left"></div>
           </div>
           <div class="col-sm-6 text-center">
-            <a href="index.php"><img src="../img/logo.png" id="logoFooter" alt="" /></a>
+            <a href="index.php"><img src="../img/logo.webp" id="logoFooter" alt="Delquignies-logo-simple" /></a>
           </div>
           <div class="col-sm-3">
             <div class="bordure-right float-left"></div>

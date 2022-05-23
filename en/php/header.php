@@ -18,7 +18,7 @@
       <div class="container-fluid">
         <a href="../en/index.php" class="navbar-brand"
           ><img
-            src="../img/Logo-Delquignies-Logistique_o.png"
+            src="../img/Logo-Delquignies-Logistique_o.webp"
             alt=""
             height="64"
         /></a>
@@ -38,7 +38,7 @@
           class="navbar-toggler"
           data-bs-toggle="collapse"
           data-bs-target="#navbarCollapse"
-        >
+        >Hello
           <span class="navbar-toggler-icon"></span>
         </button>
         <div id="navbarCollapse" class="collapse navbar-collapse">

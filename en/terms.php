@@ -71,6 +71,6 @@ The picture representation presented on this site is the property of their autho
         </div>
       </div>
     </div>
-    <?php include("php/footer.php")?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>

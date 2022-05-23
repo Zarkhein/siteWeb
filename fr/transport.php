@@ -17,12 +17,13 @@
     <meta name="Rating" content="general">
     <meta name="Distribution" content="global">
     <meta name="Category" content="environment">
-    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon">
     <link rel="stylesheet" href="../css/transport.css" />
   </head>
   <body onload="breadcrumbs('trans1', 'demo')">
     <?php include("php/header.php"); ?>
     <div class="background"></div>
+    <div class="space"></div>
     <div class="container">
       <div class="row Titre">
         <div class="col-xs-12">
@@ -54,7 +55,7 @@
           <img
             src="../img/webp/camionDelquignies.webp"
             class="article-img img-fluid"
-            alt=""
+            alt="Camion Delquignies"
           />
         </div>
       </div>
@@ -63,7 +64,7 @@
           <img
             src="../img/webp/Douane.webp"
             class="article-img img-fluid"
-            alt=""
+            alt="Port Delquignies"
           />
         </div>
         <div class="col-md-6">
@@ -109,12 +110,12 @@
           <img
             src="../img/webp/boatDelquignies.webp"
             class="article-img img-fluid"
-            alt=""
+            alt="Bateau Oversea cargo"
           />
         </div>
       </div>
     </div>
     <script type="text/javascript" src="../js/breadcrumbs.js"></script>
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>

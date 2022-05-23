@@ -17,19 +17,19 @@
       <div class="container-fluid">
         <a href="../fr/index.php" class="navbar-brand"
           ><img
-            src="../img/Logo-Delquignies-Logistique_o.png"
-            alt=""
+            src="../img/Logo-Delquignies-Logistique_o.webp"
+            alt="Delquignies-Logistique-Logo"
             height="64"
         /></a>
         <div class="flag-block">
           <?php 
             echo "<a href='../fr/".$link[3]."'>"
           ?>
-            <img src="../img/france.png" id="flag" alt="alt"
+            <img src="../img/france.webp" id="flag" alt="alt"
           /></a>
           <?php 
             echo "<a href='../en/".$link[3]."'>"
-          ?><img src="../img/royaume-uni.png" id="flag" alt="alt"
+          ?><img src="../img/royaume-uni.webp" id="flag" alt="alt"
           /></a>
         </div>
         <button
@@ -38,7 +38,7 @@
           data-bs-toggle="collapse"
           data-bs-target="#navbarCollapse"
           id="bgButton"
-        >
+        > 
           <span class="navbar-toggler-icon"></span>
         </button>
         <div id="navbarCollapse" class="collapse navbar-collapse">

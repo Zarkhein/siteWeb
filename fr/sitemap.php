@@ -34,7 +34,7 @@
     <meta name="DC.Distribution" content="global">
     <meta name="DC.Geography" content="Mortagne du nord,  France, 59158">
     <meta name="DC.Category" content="environment">
-    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon">
   </head>
   <body>
     <?php include("php/script.php"); ?>
@@ -85,6 +85,6 @@
             <div class="space"></div>
         </div>
     </div>
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>

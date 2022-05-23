@@ -4,7 +4,7 @@
   object-fit: cover;
   background-size: cover;
   background-position: center 20%;
-  height: 500px;
+  height: 300px;
 }
 
 html {
@@ -42,4 +42,9 @@ p {
 strong {
   color: orange;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.space {
+  background-color: #425fa2;
+  height: 90px;
 }

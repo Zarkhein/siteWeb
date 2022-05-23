@@ -10,6 +10,7 @@
   <body>
     <?php include("php/header.php"); ?>
     <div class="background"></div>
+    <div class="space"></div>
     <div class="container">
       <div class="row Titre">
         <div class="col-xs-12">
@@ -51,6 +52,6 @@
         </div>
     </div>
     
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>

@@ -17,7 +17,7 @@
     <meta name="Distribution" content="global">
     <meta name="Geography" content="Mortagne du nord,  France, 59158">
     <meta name="Category" content="environment">
-    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon">
     <meta http-equiv="cache-control" content="no-cache">
   </head>
   <body>
@@ -32,23 +32,23 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="../img/Display/facade extérieure bâtiment.jpg"
+              src="../img/webp/facade extérieure bâtiment.webp"
               class="d-block w-100"
-              alt=""
+              alt="Face exterieur Mortagne"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="../img/placeholder/mortagne.png"
+              src="../img/webp/mortagne.webp"
               class="d-block w-100"
-              alt=""
+              alt="Vue aerienne Mortagne"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="../img/placeholder/Mortagne_arrière.png"
+              src="../img/webp/Mortagne_arrière.webp"
               class="d-block w-100"
-              alt=""
+              alt="Face exterieur arriere Mortagne"
             />
           </div>
         </div>
@@ -76,9 +76,9 @@
           </div>
           <div class="col-md-6 my-5">
             <img
-              src="../img/Display/photo1.jpg"
+              src="../img/webp/camionDelquignies.webp"
               class="img-fluid photo-border"
-              alt=""
+              alt="Camion Delquignies"
             />
           </div>
         </div>
@@ -86,9 +86,9 @@
           <div class="col-md-4 text-center">
             <a href="nosmetiers.php"
               ><img
-                src="../img/placeholder/entrepot.jpg"
+                src="../img/webp/entrepot.webp"
                 class="img-fluid"
-                alt=""
+                alt="Entrepots delquignies"
             /></a>
             <a href="nosmetiers.php"
               ><p class="text-white text-center mt-5 mb-3 btnMenu h3">
@@ -99,9 +99,9 @@
           <div class="col-md-4 text-center">
             <a href="nossites.php"
               ><img
-                src="../img/placeholder/M_Bulle.png"
+                src="../img/webp/M_Bulle.webp"
                 class="img-fluid"
-                alt=""
+                alt="Vue aerienne Mortagne"
             /></a>
             <a href="nossites.php"
               ><p class="text-white text-center mt-5 mb-3 btnMenu h3">
@@ -112,9 +112,9 @@
           <div class="col-md-4 text-center">
             <a href="nosengagement.php"
               ><img
-                src="../img/placeholder/photo3.jpg"
+                src="../img/webp/photo3.webp"
                 class="img-fluid"
-                alt=""
+                alt="Rack Delquignies Entrepots"
             /></a>
             <a href="nosengagement.php"
               ><p class="text-white text-center mt-5 mb-3 btnMenu h3">
@@ -125,6 +125,7 @@
         </div>
       </div>
     </div>
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
+    <script type="text/javascript" src="../js/map.js"></script>
   </body>
 </html>

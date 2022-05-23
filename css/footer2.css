@@ -1,0 +1,23 @@
+footer {
+  background-color: #425fa2;
+  border-top: 1px solid ghostwhite;
+}
+
+hr {
+  color: #e6501d !important;
+  height: 5px !important;
+  margin-bottom: 22% !important;
+  margin-top: 22% !important;
+  opacity: 1 !important;
+}
+
+#information-footer a:hover {
+  color: #e6501d;
+  text-decoration: none;
+}
+
+#information-footer a {
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}

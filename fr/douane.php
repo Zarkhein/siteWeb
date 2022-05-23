@@ -38,6 +38,7 @@
   <body onload="breadcrumbs('trans4', 'demo')">
     <?php include("php/header.php"); ?>
     <div class="background"></div>
+    <div class="space"></div>
     <div class="container">
       <div class="row Titre">
         <div class="col-xs-12">
@@ -104,6 +105,6 @@
       <div class="col-xs-12"></div>
     </div>
     <script type="text/javascript" src="../js/breadcrumbs.js"></script>
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>

@@ -46,7 +46,7 @@
         </div>
       </div>
     </div>
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
     <script type="text/javascript" src="../js/googleMap.js"></script>
   </body>
 </html>

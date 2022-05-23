@@ -19,7 +19,7 @@
     <meta name="Geography" content="Mortagne du nord,  France, 59158">
     <meta name="Category" content="environment">
     <link rel="stylesheet" href="../css/nosengagement.css" />
-    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon">
   </head>
   <body onload="breadcrumbs('engagementId')">
     <?php include("php/script.php"); ?>
@@ -28,7 +28,7 @@
     </div>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-7 my-5">
+        <div class="col-md-6 my-5">
           <div class="article-text">
             <h1>Certification ISO9001</h1>
             <h2>Organisation internationale de normalisation</h2>
@@ -36,33 +36,33 @@
             <p class="fst-italic info">Les sites: PACQ-Thourotte - DIS-Onnaing - Transports Cauyez – Sains du Nord - Rouvignies</p>
           </div>
         </div>
-        <div class="col-md-5 d-flex flex-column justify-content-center align-items-center">
+        <div class="col-md-6 d-flex flex-column justify-content-center align-items-center">
           <img src="../img/webp/iso-9001.webp" class="article-img-1 img-fluid" alt="">
         </div>
-        <div class="col-md-5 bg-1 d-flex flex-column justify-content-center align-items-center">
+        <div class="col-md-6 bg-1 d-flex flex-column justify-content-center align-items-center">
          <img src="../img/icon/téléchargement.png" class="img-fluid article-img-2 my-5" alt="">
         </div>
-        <div class="col-md-7 bg-1">
+        <div class="col-md-6 bg-1">
         <div class="article-text my-5">
             <h1>La charte "objectif CO2"</h1>
             <h2>Réduction des émissions de dioxyde de carbone </h2>
             <p class="fs-2 text-white">"La charte objectif CO2 s’inscrit dans une démarche globale de lutte contre le changement climatique et plus précisément de réduction des émissions de CO2."</p>
           </div>
         </div>
-        <div class="col-md-7">
+        <div class="col-md-6">
           <div class="article-text my-5">
             <h1>Membre CD2E</h1>
             <h2>Création Développement Eco-Entreprises</h2>
             <p class="fs-2 text-white">Le cd2e est un acteur unique en France, spécifiquement dédié aux professionnels du secteur de l'environnement en Nord-Pas de Calais.</p>
           </div>
         </div>
-        <div class="col-md-5 d-flex flex-column justify-content-center align-items-center">
+        <div class="col-md-6 d-flex flex-column justify-content-center align-items-center">
         <img src="../img/webp/membre_cd2e_delquignies.webp" class="article-img-1 img-fluid my-5" alt="">
         </div>
-        <div class="col-md-5 bg-1 d-flex flex-column justify-content-center align-items-center">
+        <div class="col-md-6 bg-1 d-flex flex-column justify-content-center align-items-center">
           <img src="../img/webp/oea.webp" class="article-img-2 img-fluid my-5 aeo" alt="">
         </div>
-        <div class="col-md-7 bg-1">
+        <div class="col-md-6 bg-1">
           <div class="article-text my-5">
               <h1>Statut OEA</h1>
               <h2>Opérateur Economique Agréé</h2>
@@ -72,7 +72,7 @@
         </div>
       </div>
     </div>
+    <?php include("php/footer2.php"); ?>
     <script type="text/javascript" src="../js/breadcrumbs.js"></script>
-    <?php include("php/footer.php"); ?>
   </body>
 </html>

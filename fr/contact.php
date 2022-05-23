@@ -31,7 +31,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/contact.css" />
-    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon">
   </head>
   <body>
     <?php include("php/header.php"); ?>
@@ -90,8 +90,12 @@
           </div>
         </div>
         <div class="col-sm-6 info">
+          
           <p class="h1 text-center text-white mt-5">Delquignies - Information</p>
-          <div class="text-white h3 text-center" id="espace">
+          <div class="text-center">
+          <img src="../img/webp/camionDelquignies.webp" alt="camion delquignies" class="img-fluid" id="photo">
+          </div>
+          <div class="text-white h3" id="espace">
             <p>30 Rue du Commandant Chaumonot - Mortagne du nord</p>
             <p>contact@delquignies.com</p>
             <p>06 56 54 58 52</p>
@@ -99,6 +103,6 @@
         </div>
       </div>
     </div>
-    <?php include("php/footer.php"); ?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>
