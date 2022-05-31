@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-sm">
                     <div class="text-center" id="information-footer">
-                        <img src="../img/webp/Logo-Delquignies-Logistique_o.webp" alt="logo-delquignies" class="img-fluid px-5 py-5">
+                         <a href="index.php"><img src="../img/webp/Logo-Delquignies-Logistique_o.webp" alt="logo-delquignies" class="img-fluid px-5 py-5"></a>
                         <p>06 56 54 58 52 - 30 Rue du Commandant Chaumonot contact@delquignies.com</p>
                         <p> <a href="#"> © Delquignies 2022 </a> -  <a href="mentions.php"> Mentions Légales </a>  - <a href="cgv.php"> Contrat Générales de Vente </a> - <a href="contact.php"> Contact </a> - <a href="sitemap.php">Plan du site</a></p>
                     </div>

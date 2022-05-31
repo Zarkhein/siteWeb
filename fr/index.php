@@ -74,7 +74,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-6 my-5">
+          <div class="col-md-6 my-5 text-center">
             <img
               src="../img/webp/camionDelquignies.webp"
               class="img-fluid photo-border"
@@ -87,7 +87,7 @@
             <a href="nosmetiers.php"
               ><img
                 src="../img/webp/entrepot.webp"
-                class="img-fluid"
+                class="img-fluid shadow"
                 alt="Entrepots delquignies"
             /></a>
             <a href="nosmetiers.php"
@@ -100,7 +100,7 @@
             <a href="nossites.php"
               ><img
                 src="../img/webp/M_Bulle.webp"
-                class="img-fluid"
+                class="img-fluid shadow"
                 alt="Vue aerienne Mortagne"
             /></a>
             <a href="nossites.php"
@@ -113,7 +113,7 @@
             <a href="nosengagement.php"
               ><img
                 src="../img/webp/photo3.webp"
-                class="img-fluid"
+                class="img-fluid shadow"
                 alt="Rack Delquignies Entrepots"
             /></a>
             <a href="nosengagement.php"
@@ -126,6 +126,5 @@
       </div>
     </div>
     <?php include("php/footer2.php"); ?>
-    <script type="text/javascript" src="../js/map.js"></script>
   </body>
 </html>

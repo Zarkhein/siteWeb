@@ -42,60 +42,52 @@
           <h1 class="text-white text-center mt-5">Nous contacter</h1>
           <div class="responsable my-5">
             <div class="grp-info">
-              <img src="../img/icon/groupe.png" class="mx-2" alt="">
+              <img src="../img/webp/groupe.webp" class="mx-2" alt="">
               <p class="text-white">Logistique</p>
-              <img src="../img/icon/suitcase.png" class="mx-2" alt="">
+              <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
               <p class="text-white">Xavier Ratayzyk</p>
-              <img src="../img/icon/mail.png" class="mx-2" alt="">
-              <p class="text-white">xratayzyk@delquignies.com</p>
-              <img src="../img/icon/appel.png" class="mx-2" alt="">
+              <img src="../img/webp/appel.webp" class="mx-2" alt="">
               <p class="text-white">03 27 28 86 88</p>
             </div>
           </div>
           <div class="responsable my-5">
           <div class="grp-info">
-              <img src="../img/icon/groupe.png" class="mx-2" alt="">
+              <img src="../img/webp/groupe.webp" class="mx-2" alt="">
               <p class="text-white">Lots Direct</p>
-              <img src="../img/icon/suitcase.png" class="mx-2" alt="">
+              <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
               <p class="text-white">Patrick Raux</p>
-              <img src="../img/icon/appel.png" class="mx-2" alt="">
-              <p class="text-white">praux@delquignies.com</p>
-              <img src="../img/icon/mail.png" class="mx-2" alt="">
+              <img src="../img/webp/appel.webp" class="mx-2" alt="">
               <p class="text-white">03 27 30 53 04</p>
             </div>
           </div>
           <div class="responsable my-5">
           <div class="grp-info">
-              <img src="../img/icon/groupe.png" class="mx-2" alt="">
+              <img src="../img/webp/groupe.webp" class="mx-2" alt="">
               <p class="text-white">Air & Sea</p>         
-              <img src="../img/icon/suitcase.png" class="mx-2" alt="">
+              <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
               <p class="text-white">Armando Giglio</p>
-              <img src="../img/icon/mail.png" class="mx-2" alt="">
-              <p class="text-white">agiglio@delquignies.com</p>
-              <img src="../img/icon/appel.png" class="mx-2" alt="">
+              <img src="../img/webp/appel.webp" class="mx-2" alt="">
               <p class="text-white">03 20 28 40 76</p>              
             </div>
           </div>
           <div class="responsable my-5">
           <div class="grp-info">
-              <img src="../img/icon/groupe.png" class="mx-2" alt="">
+              <img src="../img/webp/groupe.webp" class="mx-2" alt="">
               <p class="text-white">Affretement</p>
-              <img src="../img/icon/suitcase.png" class="mx-2" alt="">
+              <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
               <p class="text-white">Bertrand Culot</p>
-              <img src="../img/icon/mail.png" class="mx-2" alt="">
-              <p class="text-white">bculot@delquignies.com</p>
-              <img src="../img/icon/appel.png" class="mx-2" alt="">
+              <img src="../img/webp/appel.webp" class="mx-2" alt="">
               <p class="text-white">03 27 30 53 24</p>
             </div>
           </div>
         </div>
         <div class="col-sm-6 info">
           
-          <p class="h1 text-center text-white mt-5">Delquignies - Information</p>
+          <p class="h1 text-center text-white mt-5 title-bold">Delquignies - Information</p>
           <div class="text-center">
-          <img src="../img/webp/camionDelquignies.webp" alt="camion delquignies" class="img-fluid" id="photo">
+          <img src="../img/webp/camionDelquignies.webp" alt="camion delquignies" class="img-fluid mt-5" id="photo">
           </div>
-          <div class="text-white h3" id="espace">
+          <div class="text-white h3 mx-5" id="espace">
             <p>30 Rue du Commandant Chaumonot - Mortagne du nord</p>
             <p>contact@delquignies.com</p>
             <p>06 56 54 58 52</p>

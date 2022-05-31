@@ -63,6 +63,9 @@
             <li class="nav-item">
               <a href="nosengagement.php" class="nav-link h3 text-white" id="engagementId">Nos engagements</a>
             </li>
+            <li class="nav-item">
+              <a href="eco.php" class="nav-link h3 text-white" id="ecoId">Eco Responsable</a>
+            </li>
           </ul>
         </div>
       </div>

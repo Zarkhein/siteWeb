@@ -64,7 +64,7 @@
         </div>
         <div class="col-md-6 mt-5 text-center">
           <img
-            src="../img/placeholder/photo2.png"
+            src="../img/webp/boatDelquignies.webp"
             class="article-img img-fluid"
             alt=""
           />
@@ -73,7 +73,7 @@
       <div class="row Article mb-5">
         <div class="col-md-6">
           <img
-            src="../img/placeholder/photo3.png"
+            src="../img/webp/avion.webp"
             class="article-img img-fluid"
             alt=""
           />
@@ -96,7 +96,7 @@
         </div>
         <div class="col-md-6 mt-5 text-center">
           <img
-            src="../img/placeholder/customs.jpg"
+            src="../img/webp/customs.webp"
             class="article-img img-fluid"
             alt=""
           />

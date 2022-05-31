@@ -58,17 +58,17 @@
         </div>
         <div class="col-md-6 mt-5 text-center">
           <img
-            src="../img/placeholder/stckMass.jpg"
+            src="../img/webp/stckMass.webp"
             class="article-img img-fluid mt-2"
             alt=""
           />
         </div>
       </div>
-      <div class="row Article mb-5">
+      <div class="row Article">
         <div class="col-md-6">
           <img
-            src="../img/placeholder/chaine.jpg"
-            class="article-img img-fluid"
+            src="../img/webp/chaine.webp"
+            class="article-img img-fluid mt-5"
             alt=""
           />
         </div>
@@ -108,7 +108,7 @@
         </div>
         <div class="col-md-6 mt-5 text-center">
           <img
-            src="../img/placeholder/Douane.png"
+            src="../img/webp/Douane.webp"
             class="article-img img-fluid"
             alt=""
           />

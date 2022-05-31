@@ -51,7 +51,7 @@
         <div class="col-md-3 my-5 text-center">
           <a href="transport.php"
             ><img
-              src="../img/Display/photo3.jpg"
+              src="../img/webp/camionRond.webp"
               alt="Camion Delquignies route"
               class="img-fluid img-rounded"
           /></a>
@@ -60,34 +60,33 @@
         <div class="col-md-3 my-5 text-center">
           <a href="douane.php"
             ><img
-              src="../img/placeholder/m_custom.jpg"
+              src="../img/webp/m_custom.webp"
               alt="Batiment Delquignies Douane Vandervost"
               class="img-fluid img-rounded"
           /></a>
-          <h3 class="text-white text-center mt-5 btnMenu">Douane</h3>
+          <a href="douane.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Douane</h3></a>
         </div>
         <div class="col-md-3 my-5 text-center">
           <a href="stockage.php"
             ><img
-              src="../img/placeholder/photo3.jpg"
+              src="../img/webp/photo3.webp"
               alt="Stockage entrepot Rack"
               class="img-fluid img-rounded"
           /></a>
-          <h3 class="text-white text-center mt-5 btnMenu">Stockage</h3>
+         <a href="stockage.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Stockage</h3></a>
         </div>
         <div class="col-md-3 my-5 text-center">
           <a href="logistique.php"
             ><img
-              src="../img/placeholder/entrepot.jpg"
+              src="../img/webp/entrepot.webp"
               alt="Entrepot Rack chaine"
               class="img-fluid img-rounded"
           /></a>
-          <h3 class="text-white text-center mt-5 btnMenu">Logistique</h3>
+         <a href="logistique.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Logistique</h3></a>
         </div>
       </div>
     </div>
     <?php include("php/footer2.php"); ?>
     <script type="text/javascript" src="../js/breadcrumbs.js"></script>
-    <script type="text/javascript" src="../js/map.js"></script>
   </body>
 </html>

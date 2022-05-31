@@ -43,7 +43,7 @@
         <h1 class="text-decoration-underline">Plan du site - Delquignies Logistique</h1>
         <div class="container" id="sitemap">
             <div class="row text-white">
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                     <ul>
                         <li> <a href="nosmetiers.php">Nos métiers</a></li>
                         <ul>
@@ -54,7 +54,7 @@
                         </ul>
                     </ul>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                     <ul>
                         <li> <a href="nossites.php">Nos sites</a></li>
                         <ul>
@@ -65,12 +65,12 @@
                         </ul>
                     </ul>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                     <ul>
                         <li> <a href="nosengagement.php">Nos engagements </a></li>
                     </ul>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                     <ul>
                         <li><a href="#">Information</a></li>
                         <ul>
@@ -79,6 +79,11 @@
                             <li> <a href="contact.php" class="text-decoration-none"> Contact</a></li>
                             <li> <a href="sitemap.php" class="text-decoration-none"> Plan du site</a></li>
                         </ul>
+                    </ul>
+                </div>
+                <div class="col-lg-2">
+                    <ul>
+                        <li><a href="eco.php">Eco-Responsable</a></li>
                     </ul>
                 </div>
             </div>

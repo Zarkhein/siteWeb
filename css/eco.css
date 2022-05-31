@@ -1,0 +1,65 @@
+.space {
+  background-image: url(../img/webp/green-mountains-wallpaper.webp);
+  object-fit: cover;
+  background-size: cover;
+  background-position: center 40%;
+  height: 200px;
+}
+
+.title {
+  background-image: url(../img/icon/rectangle2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.parent {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  background-color: crimson;
+}
+
+.img {
+  position: relative;
+  top: 200px;
+  width: 50px;
+  height: 50px;
+  background-color: cadetblue;
+  border-radius: 50px;
+}
+
+.imgRounded {
+  border-radius: 200px;
+}
+
+.borderMiddle {
+  border-left: 5px solid #782f12;
+}
+
+.image {
+  padding-top: 20%;
+  padding-left: 5%;
+  margin-bottom: 10%;
+}
+
+.image p {
+  margin-top: 5% !important;
+}
+
+.txtleft {
+  float: left;
+}
+
+@media screen and (max-width: 767px) {
+  .borderMiddle {
+    border-left: none;
+  }
+
+  .image {
+    padding-left: 0%;
+  }
+
+  .img-fluid {
+    float: none;
+  }
+}
