@@ -17,8 +17,9 @@
                 <div class="col-sm">
                     <div class="text-center" id="information-footer">
                          <a href="index.php"><img src="../img/webp/Logo-Delquignies-Logistique_o.webp" alt="logo-delquignies" class="img-fluid px-5 py-5"></a>
-                        <p>06 56 54 58 52 - 30 Rue du Commandant Chaumonot contact@delquignies.com</p>
-                        <p> <a href="#"> © Delquignies 2022 </a> -  <a href="mentions.php"> Mentions Légales </a>  - <a href="cgv.php"> Contrat Générales de Vente </a> - <a href="contact.php"> Contact </a> - <a href="sitemap.php">Plan du site</a></p>
+                        <p>+33 (0)327 286 286 - 30 Rue du Commandant Chaumonot 59158 Mortagne du Nord </p>
+                        <p class="text-white">contact@delquignies.com</p>
+                        <p> <a href="#"> © Delquignies 2022 </a> -  <a href="mentions.php"> Mentions Légales </a>  - <a href="cgv.php"> Condition Générales de Vente </a> - <a href="contact.php"> Contact </a> - <a href="sitemap.php">Plan du site</a> - <a href="nossites.php">Nos sites</a></p>
                     </div>
                 </div>
                 <div class="col-sm">

@@ -34,10 +34,23 @@ h2 {
   color: ghostwhite;
   background-image: url("../img/icon/rectangle2.svg");
   background-repeat: no-repeat;
-  background-position: left 20%;
 }
 
-p {
+#DouaneBg {
+  background-position: -70%;
+}
+
+#oeaBg {
+  background-size: cover;
+  background-position: -30px;
+}
+
+#gestionBg {
+  background-size: cover;
+  background-position: -30px;
+}
+
+#quote {
   color: #fee600;
 }
 

@@ -44,6 +44,7 @@
             et/ou de logistique
           </h2>
           <br />
+          <a href="CGV-v2017-FRA_Delquignies.pdf"><h2>C.G.V version pdf ici</h2></a>
           <div class="article">
             <h4>Article 1 - OBJET ET DOMAINE D’APPLICATION</h4>
             <p>

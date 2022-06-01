@@ -38,19 +38,37 @@ h2 {
 
 .info {
   color: #fee600;
+  font-size: 20px;
 }
 
 .logo:hover {
-  filter: drop-shadow(0px 4px 4px rgb(255, 160, 69));
+  filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
 }
 
 .logo {
   transition: 0.5s;
 }
 
-.test {
+.mainTitle {
   background-image: url(../img/icon/rectangle2.svg);
   background-repeat: no-repeat;
   background-position: center;
   margin-top: 2% !important;
+}
+
+#coBg {
+  background-position: 3%;
+}
+
+.cdBg {
+  background-position: -25%;
+}
+
+.oeaBg {
+  background-position: -35%;
+}
+
+.spaceBlue {
+  background-color: #425fa2;
+  height: 90px;
 }

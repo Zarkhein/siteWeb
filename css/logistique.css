@@ -34,11 +34,23 @@ h2 {
   color: ghostwhite;
   background-image: url("../img/icon/rectangle2.svg");
   background-repeat: no-repeat;
-  background-position: left 20%;
+  background-size: cover;
 }
 
-p {
+#quote {
   color: #fee600;
+}
+
+#PersonnelBg {
+  background-position: -50px;
+}
+
+#materielBg {
+  background-position: -10px;
+}
+
+#gestionBg {
+  background-position: -120px;
 }
 
 strong {

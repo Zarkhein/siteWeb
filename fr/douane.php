@@ -47,8 +47,8 @@
       </div>
       <div class="row Article mb-5">
         <div class="col-md-6 mt-5">
-          <h2 class="title">Douane</h2>
-          <p class="quote text-center">
+          <h2 class="title" id="DouaneBg">Douane</h2>
+          <p class="quote text-center" id="quote">
             “Notre service Douane et représentation fiscale accompagne les
             industriels dans la gestion des formalités administratives et
             douanières”
@@ -79,7 +79,7 @@
           />
         </div>
         <div class="col-md-6">
-          <h2 class="title">Statut d'opérateur économique agrée</h2>
+          <h2 class="title" id="oeaBg">Statut d'opérateur économique agrée</h2>
           <p class="param text-white">
             Notre service a reçu le <strong>statut</strong> d'Opérateur Économique Agréé en 2012.
           </p>
@@ -87,7 +87,7 @@
       </div>
       <div class="row Article mb-5">
         <div class="col-md-6 mt-5">
-          <h2 class="title">Gestion en entrepôts sous douane</h2>
+          <h2 class="title" id="gestionBg">Gestion en entrepôts sous douane</h2>
           <p class="param text-white">
             Nos <strong>entrepôts</strong> sont agréés et <strong>habilités</strong> par l'administration
             douanière pour stocker et gérer des <strong>marchandises</strong> en exonération de

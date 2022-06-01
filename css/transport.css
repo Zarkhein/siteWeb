@@ -32,10 +32,10 @@ h2 {
   color: ghostwhite;
   background-image: url("../img/icon/rectangle2.svg");
   background-repeat: no-repeat;
-  background-position: left 20%;
+  background-position: -45%;
 }
 
-p {
+#quote {
   color: #fee600;
 }
 

@@ -53,3 +53,8 @@ html {
 strong {
   color: orange;
 }
+
+h3 {
+  font-size: 1.25vh !important;
+  color: red !important;
+}

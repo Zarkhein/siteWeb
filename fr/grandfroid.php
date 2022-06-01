@@ -30,30 +30,26 @@
     <meta name="DC.Category" content="environment">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="../css/stockage.css" />
+    <link rel="stylesheet" href="../css/froid.css" />
   </head>
-  <body onload="breadcrumbs('trans2', 'demo')">
+  <body onload="breadcrumbs('trans5', 'demo')">
     <?php include("php/header.php"); ?>
     <div class="background"></div>
     <div class="space"></div>
     <div class="container">
       <div class="row Titre">
         <div class="col-xs-12">
-          <h1 class="text-center text-white backgroundimg">Stockage</h1>
+          <h1 class="text-center text-white backgroundimg">Grand froid</h1>
         </div>
       </div>
       <div class="row Article mb-5">
         <div class="col-md-6 mt-5">
-          <h2 class="title" id="EntreposageBg" >Entreposage</h2>
+          <h2 class="title">Activité Frigorifique</h2>
           <p class="quote text-center" id="quote">
-            "Des modes de stockage adaptés à chacun de vos produits "
+            "Transport et stockage jusqu'a -18°c"
           </p>
           <p class="param text-white">
-            Avec plus de <strong> 110 000 m²</strong> d'entrepôts adaptés aux particularités de
-            vos <strong>produits</strong>, Delquignies Logistique met à votre disposition, des
-            <strong>bâtiments</strong> et installations <strong>conformes</strong> aux réglementations en vigueur.
-            Leurs <strong>accessibilité</strong> et <strong>modularité</strong> vous assurent un éventail aussi
-            large que varié de solutions de <strong>livraison/enlèvement</strong> et de <strong>stockage</strong>.
+            Chez <strong>Delquignies</strong> nous possédons véhicules et des entrepôts qui peuvent <strong>accueillir</strong> des livraisons à une température jusqu'à <strong>-18°c</strong>
           </p>
         </div>
         <div class="col-md-6 mt-5 text-center">
@@ -73,38 +69,33 @@
           />
         </div>
         <div class="col-md-6">
-          <h2 class="title" id="LogistiqueBg">Logistique In Situ</h2>
-          <p class="quote text-center" id="quote">
-            "Réalisation de l’ensemble de la logistique interne chez le client "
+          <h2 class="title">Véhicules sous température</h2>
+          <p class="param text-white"><!-- verifier les fautes -->
+            Nous possédions des véhicules capables de pouvoir transporter vos <strong>produits</strong> dans les meilleurs <strong>situations</strong> et une température <strong>adéquoite</strong> pour vos produits. 
           </p>
-          <p class="param text-white">
-            Le service Logistique in situ de Delquignies réalise des prestations
-            <strong> directement </strong> sur les sites de nos <strong>clients</strong>.
-          </p>
-          <p class="param text-white"><u>Gestion de l'intégralité des flux logistiques chez le client:</u></p>
           <ul class="param text-white">
-            <li>Réception</li>
-            <li>Gestion des stocks</li>
-            <li>Approvisionnement de lignes</li>
-            <li>Contrôle qualité</li>
-            <li>Préparation de commande</li>
-            <li>Chargement</li>
+            <li>Camions <strong>équipés</strong> de groupe température positive/négative avec enregistreur de T°</li>
+            <li>équipé de branchement  électrique pour <strong>norme CO2</strong></li>
+            <li>transport vers <strong>France</strong>, Benelux</li>
+            <li>passage à quai sur nos <strong>sites</strong></li>
           </ul>
         </div>
       </div>
       <div class="row Article mb-5">
         <div class="col-md-6 mt-5">
-          <h2 class="title" id="portId">Port fluvial</h2>
-          <p class="quote text-center" id="quote">"Des prestations sur mesures "</p>
+          <h2 class="title">Stockage Frigorifique</h2><!-- verifier les fautes -->
           <p class="param text-white">
-            Delquignies Logistique, fort de son <strong>positionnement</strong> sur le canal
-            <strong>Seine Nord Europe</strong>, vous propose l'acheminement de vos produits via
-            son port <strong>fluvial</strong>. Situé sur la frontière <strong>belge</strong>, le site logistique
-            de Mortagne du Nord est le <strong>premier</strong> port fluvial français lorsque
-            votre marchandise arrive des grands ports maritimes nord Européens
-            (Anvers, Rotterdam...). Cela constitue un atout logistique <strong>non
-            négligeable</strong>.
+            Delquignies Logistique, possède <strong>deux</strong> entrepots à pouvoir entreposer vos produits dans de <strong>basse temperatures</strong>. les deux sites sont celui de <strong>Rouvignies</strong> et le celui de Cauyez <strong>Sains du nord</strong>
           </p>
+          <ul class="param text-white">
+            <li>Capacité de <strong>9000</strong> palettes à SDN et <strong>5500</strong> à Rouvignies</li>
+            <li>racks <strong>mobiles</strong></li>
+            <li>chambres de décongélation <strong>rapide</strong></li>
+            <li>Chambres de -18°c à +10°C</li>
+            <li>Contrôle des températures entrée/sortie et <strong>suivi</strong> des températures de stockage</li>
+            <li><strong>Agrément</strong> sanitaire</li>
+            <li>Vidéosurveillance</li>
+          </ul>
         </div>
         <div class="col-md-6 mt-5 text-center">
           <img

@@ -47,7 +47,7 @@
           </div>
         </div>
         <div class="col-sm-6 bg">
-          <div class="info my-5">
+          <div class="info my-2">
             <h2 class="title-info" onclick="swapMap(0)">
               Delquignies Mortagne
             </h2>
@@ -55,22 +55,34 @@
               30 Rue du Commandant Chaumonot, 59158 Mortagne-du-Nord
             </p>
           </div>
-          <div class="info my-5">
+          <div class="info my-2">
             <h2 class="title-info" onclick="swapMap(1)">Delquignies Roncq</h2>
             <p class="text-white title-gps">Z.A. Les Champs, 59223 Roncq</p>
           </div>
-          <div class="info my-5">
+          <div class="info my-2">
             <h2 class="title-info" onclick="swapMap(2)">
               Delquignies Valenciennes
             </h2>
             <p class="text-white title-gps">
-              Zoning Industriel 2, 59220 Rouvignies
+              Zone Industrielle 2, 59220 Rouvignies
             </p>
           </div>
-          <div class="info my-5">
+          <div class="info my-2">
             <h2 class="title-info" onclick="swapMap(3)">Delquignies Onnaing</h2>
             <p class="text-white title-gps">
               Parc d'Activités de la Vallée de l'Escaut, 59264 Onnaing
+            </p>
+          </div>
+          <div class="info my-2">
+            <h2 class="title-info" onclick="swapMap(4)">Delquignies Calais</h2>
+            <p class="text-white title-gps">
+              Parc d'Activités de la Vallée de l'Escaut, 62100 Calais
+            </p>
+          </div>
+          <div class="info my-2">
+            <h2 class="title-info" onclick="swapMap(4)">Delquignies Lesquin</h2>
+            <p class="text-white title-gps">
+              423 Rue du Haut de Sainghin, 59273 Fretin
             </p>
           </div>
         </div>

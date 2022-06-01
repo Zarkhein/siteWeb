@@ -51,20 +51,18 @@
                 >Nos métiers</a
               >
               <div class="dropdown-menu" id="dropdownBackground">
-                <a href="transport.php" class="dropdown-item text-light" id="trans1" >Transport</a>
+                <a href="transport.php" class="dropdown-item text-light" id="trans1" >Lots directs</a>
                 <a href="stockage.php" class="dropdown-item text-light" id="trans2" >Stockage</a>
                 <a href="logistique.php" class="dropdown-item text-light" id="trans3" >Logistique</a>
                 <a href="douane.php" class="dropdown-item text-light" id="trans4" >Douane</a>
+                <a href="grandfroid.php" class="dropdown-item text-light" id="trans5" >Grand-froids</a>
               </div>
             </li>
             <li class="nav-item">
-              <a href="nossites.php" class="nav-link h3 text-light active" id="siteId">Nos sites</a>
+            <a href="eco.php" class="nav-link h3 text-white" id="ecoId">Eco Responsable</a>
             </li>
             <li class="nav-item">
               <a href="nosengagement.php" class="nav-link h3 text-white" id="engagementId">Nos engagements</a>
-            </li>
-            <li class="nav-item">
-              <a href="eco.php" class="nav-link h3 text-white" id="ecoId">Eco Responsable</a>
             </li>
           </ul>
         </div>

@@ -36,7 +36,8 @@
     <div class="space"></div>
     <div class="container-fluid">
       <div class="row">
-      <h1 class="text-center test">Nos engagements</h1>
+      <div class="spaceBlue"></div>
+      <h1 class="text-center mainTitle">Nos engagements</h1>
         <div class="col-md-6 my-5">
           <div class="article-text">
             <h1>Certification ISO9001</h1>
@@ -74,7 +75,7 @@
         </div>
         <div class="col-md-6 bg-1">
           <div class="article-text my-5">
-            <h1>La charte "objectif CO2"</h1>
+            <h1 id="coBg">La charte "objectif CO2"</h1>
             <h2>Réduction des émissions de dioxyde de carbone</h2>
             <p class="fs-2 text-white">
               "La charte objectif CO2 s’inscrit dans une démarche globale de
@@ -85,7 +86,7 @@
         </div>
         <div class="col-md-6">
           <div class="article-text my-5">
-            <h1>Membre CD2E</h1>
+            <h1 class="cdBg">Membre CD2E</h1>
             <h2>Création Développement Eco-Entreprises</h2>
             <p class="fs-2 text-white">
               Le cd2e est un acteur unique en France, spécifiquement dédié aux
@@ -116,7 +117,7 @@
         </div>
         <div class="col-md-6 bg-1">
           <div class="article-text my-5">
-            <h1>Statut OEA</h1>
+            <h1 class="oeaBg">Statut OEA</h1>
             <h2>Opérateur Economique Agréé</h2>
             <p class="fs-2 text-white">
               "Le statut d'opérateur économique agréé (OEA) est accordé aux

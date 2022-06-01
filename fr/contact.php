@@ -45,9 +45,9 @@
               <img src="../img/webp/groupe.webp" class="mx-2" alt="">
               <p class="text-white">Logistique</p>
               <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
-              <p class="text-white">Xavier Ratayzyk</p>
+              <p class="text-white">Xavier RATAYZYK</p>
               <img src="../img/webp/appel.webp" class="mx-2" alt="">
-              <p class="text-white">03 27 28 86 88</p>
+              <p class="text-white">+33 (0) 27 28 86 88</p>
             </div>
           </div>
           <div class="responsable my-5">
@@ -55,9 +55,9 @@
               <img src="../img/webp/groupe.webp" class="mx-2" alt="">
               <p class="text-white">Lots Direct</p>
               <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
-              <p class="text-white">Patrick Raux</p>
+              <p class="text-white">Patrick RAUX</p>
               <img src="../img/webp/appel.webp" class="mx-2" alt="">
-              <p class="text-white">03 27 30 53 04</p>
+              <p class="text-white">+33 (0) 27 30 53 04</p>
             </div>
           </div>
           <div class="responsable my-5">
@@ -65,19 +65,19 @@
               <img src="../img/webp/groupe.webp" class="mx-2" alt="">
               <p class="text-white">Air & Sea</p>         
               <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
-              <p class="text-white">Armando Giglio</p>
+              <p class="text-white">Armando GIGLIO</p>
               <img src="../img/webp/appel.webp" class="mx-2" alt="">
-              <p class="text-white">03 20 28 40 76</p>              
+              <p class="text-white">+33 (0)3 20 28 40 76</p>              
             </div>
           </div>
           <div class="responsable my-5">
           <div class="grp-info">
               <img src="../img/webp/groupe.webp" class="mx-2" alt="">
-              <p class="text-white">Affretement</p>
+              <p class="text-white">Douane</p>
               <img src="../img/webp/suitcase.webp" class="mx-2" alt="">
-              <p class="text-white">Bertrand Culot</p>
+              <p class="text-white">Vincent WECXTEEN</p>
               <img src="../img/webp/appel.webp" class="mx-2" alt="">
-              <p class="text-white">03 27 30 53 24</p>
+              <p class="text-white">+33 (0)3 27 286 272</p>
             </div>
           </div>
         </div>

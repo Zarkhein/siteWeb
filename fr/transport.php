@@ -33,7 +33,7 @@
       <div class="row Article mb-5">
         <div class="col-md-6 mt-5">
           <h2 class="title">Lots directs</h2>
-          <p class="quote text-center">
+          <p class="quote text-center" id="quote">
             "Transports national et international de Lots directs"
           </p>
           <p class="param text-white">
@@ -69,7 +69,7 @@
         </div>
         <div class="col-md-6">
           <h2 class="title">Affrètement</h2>
-          <p class="quote text-center">
+          <p class="quote text-center" id="quote">
             "Des chargements sur mesure en France et en Europe, aux meilleures
             conditions négociées "
           </p>
@@ -91,7 +91,7 @@
       <div class="row Article mb-5">
         <div class="col-md-6 mt-2">
           <h2 class="title">Overseas</h2>
-          <p class="quote text-center">
+          <p class="quote text-center" id="quote">
             "Des solutions fiables et compétitives"
           </p>
           <p class="param text-white">

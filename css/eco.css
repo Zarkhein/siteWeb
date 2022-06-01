@@ -1,3 +1,7 @@
+html {
+  overflow-x: hidden;
+}
+
 .space {
   background-image: url(../img/webp/green-mountains-wallpaper.webp);
   object-fit: cover;
@@ -30,6 +34,11 @@
 
 .imgRounded {
   border-radius: 200px;
+  transition: 0.25s;
+}
+
+.imgRounded:hover {
+  filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
 }
 
 .borderMiddle {
@@ -37,17 +46,54 @@
 }
 
 .image {
-  padding-top: 20%;
-  padding-left: 5%;
   margin-bottom: 10%;
 }
 
 .image p {
   margin-top: 5% !important;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 .txtleft {
   float: left;
+}
+
+.image img {
+  margin-right: 5%;
+}
+
+.explicationRSE {
+  font-size: 24px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  margin-left: 10%;
+}
+
+h2 {
+  font-size: 25px !important;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.spaceBlue {
+  background-color: #425fa2;
+  height: 90px;
+}
+
+#panneauxBg {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.infoEco {
+  background-color: #2c3f6b;
+  border-top: whitesmoke 1px solid;
+  border-bottom: whitesmoke 1px solid;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+}
+
+.infoEco2 {
+  background-color: #2c3f6b;
+  border-top: whitesmoke 1px solid;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-bottom: whitesmoke 1px solid;
 }
 
 @media screen and (max-width: 767px) {
@@ -57,6 +103,7 @@
 
   .image {
     padding-left: 0%;
+    text-align: center;
   }
 
   .img-fluid {

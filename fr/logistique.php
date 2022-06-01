@@ -47,8 +47,8 @@
       </div>
       <div class="row Article mb-5">
         <div class="col-md-6 mt-5">
-          <h2 class="title">Personnel formé aux travaux à façon</h2>
-          <p class="quote text-center">
+          <h2 class="title" id="PersonnelBg">Personnel formé aux travaux à façon</h2>
+          <p class="quote text-center" id="quote">
             “Delquignies Logistique propose à ses clients des services sur
             mesure. Adaptant ainsi ses capacités aux besoins clients. Le
             personnel qualifié et les locaux dont nous disposons vous sont
@@ -78,7 +78,7 @@
           />
         </div>
         <div class="col-md-6">
-          <h2 class="title">Matériel adapté à chacun de vos produits</h2>
+          <h2 class="title" id="materielBg">Matériel adapté à chacun de vos produits</h2>
           <p class="param text-white">
             A <strong>chaque</strong> produit son matériel de</strong> manutention. Nous mettons un point
             <strong>d'honneur</strong> à manipuler avec soin <strong>vos</strong> produits. C'est pourquoi
@@ -95,7 +95,7 @@
       </div>
       <div class="row Article mb-5">
         <div class="col-md-6 mt-5">
-          <h2 class="title">Gestion informatisée développée en interne</h2>
+          <h2 class="title" id="gestionBg">Gestion informatisée développée en interne</h2>
           <p class="param text-white">
             Une gestion <strong>informatique</strong> adaptée à vos <strong>besoins</strong>. Notre département
             informatique <strong>développe</strong> en interne, des solutions pour <strong>faciliter</strong> les

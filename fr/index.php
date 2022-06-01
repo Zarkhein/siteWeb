@@ -97,15 +97,15 @@
             >
           </div>
           <div class="col-md-4 text-center">
-            <a href="nossites.php"
+            <a href="eco.php"
               ><img
                 src="../img/webp/M_Bulle.webp"
                 class="img-fluid shadow"
                 alt="Vue aerienne Mortagne"
             /></a>
-            <a href="nossites.php"
+            <a href="eco.php"
               ><p class="text-white text-center mt-5 mb-3 btnMenu h3">
-                Nos sites
+                Eco Responsable
               </p></a
             >
           </div>

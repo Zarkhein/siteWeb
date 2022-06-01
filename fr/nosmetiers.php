@@ -57,7 +57,7 @@
           /></a>
           <a href="transport.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Transport</h3></a>
         </div>
-        <div class="col-md-3 my-5 text-center">
+        <div class="col-md-2 my-5 text-center">
           <a href="douane.php"
             ><img
               src="../img/webp/m_custom.webp"
@@ -66,7 +66,7 @@
           /></a>
           <a href="douane.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Douane</h3></a>
         </div>
-        <div class="col-md-3 my-5 text-center">
+        <div class="col-md-2 my-5 text-center">
           <a href="stockage.php"
             ><img
               src="../img/webp/photo3.webp"
@@ -75,7 +75,7 @@
           /></a>
          <a href="stockage.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Stockage</h3></a>
         </div>
-        <div class="col-md-3 my-5 text-center">
+        <div class="col-md-2 my-5 text-center">
           <a href="logistique.php"
             ><img
               src="../img/webp/entrepot.webp"
@@ -83,6 +83,15 @@
               class="img-fluid img-rounded"
           /></a>
          <a href="logistique.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Logistique</h3></a>
+        </div>
+        <div class="col-md-3 my-5 text-center">
+          <a href="transport.php"
+            ><img
+              src="../img/webp/camionRond.webp"
+              alt="Camion Delquignies route"
+              class="img-fluid img-rounded"
+          /></a>
+          <a href="transport.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Grand-froids</h3></a>
         </div>
       </div>
     </div>
