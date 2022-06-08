@@ -55,7 +55,7 @@
               alt="Camion Delquignies route"
               class="img-fluid img-rounded"
           /></a>
-          <a href="transport.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Transport</h3></a>
+          <a href="transport.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Lots directs</h3></a>
         </div>
         <div class="col-md-2 my-5 text-center">
           <a href="douane.php"
@@ -91,7 +91,7 @@
               alt="Camion Delquignies route"
               class="img-fluid img-rounded"
           /></a>
-          <a href="transport.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Grand-froids</h3></a>
+          <a href="transport.php" class="text-decoration-none"><h3 class="text-white text-center mt-5 btnMenu">Frigorifique</h3></a>
         </div>
       </div>
     </div>

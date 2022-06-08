@@ -30,8 +30,8 @@ html {
 }
 
 #espace p {
-  margin-top: 10%;
-  margin-left: 10%;
+  margin-top: 5%;
+  margin-left: 5%;
 }
 
 .grp-info img {
@@ -56,4 +56,19 @@ html {
 
 .title-bold {
   font-weight: 700 !important;
+}
+
+#photoMail {
+  margin-left: 5%;
+}
+
+@media screen and (max-width: 767px) {
+  .grp-info p {
+    line-height: 50px;
+    font-size: 15px;
+  }
+
+  .grp-info {
+    padding-left: 15%;
+  }
 }

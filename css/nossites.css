@@ -48,23 +48,17 @@ html {
   font-size: 24px;
 }
 
-.iframe2 {
-}
-
 .title-info:hover {
   cursor: pointer;
   color: #f7a331;
 }
 
-.svg {
-  background-image: url(../img/icon/rectangle2.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
 #mainTitle {
   color: whitesmoke;
   transition: 0.3s;
+  background-image: url(../img/icon/rectangle2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .google-maps {
@@ -76,10 +70,10 @@ html {
 
 .google-maps iframe {
   position: absolute;
-  margin-top: 10%;
+  margin-top: 25%;
   left: 10%;
-  width: 70% !important;
-  height: 70% !important;
+  width: 75% !important;
+  height: 75% !important;
 }
 
 .vide {
@@ -89,4 +83,29 @@ html {
 
 strong {
   color: orange;
+}
+
+@media screen and (max-width: 415px) {
+  #mainTitle {
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+  }
+  .article-map p {
+    font-size: 18px;
+  }
+
+  .title-info {
+    font-size: 20px !important;
+  }
+
+  .title-gps {
+    font-size: 18px !important;
+  }
+
+  .google-maps iframe {
+    margin-left: 5%;
+    margin-top: 10%;
+  }
 }

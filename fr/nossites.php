@@ -64,7 +64,7 @@
               Delquignies Valenciennes
             </h2>
             <p class="text-white title-gps">
-              Zone Industrielle 2, 59220 Rouvignies
+              Zone Industrielle , 59220 Rouvignies
             </p>
           </div>
           <div class="info my-2">

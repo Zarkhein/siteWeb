@@ -87,6 +87,7 @@ h2 {
   border-top: whitesmoke 1px solid;
   border-bottom: whitesmoke 1px solid;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  margin-bottom: 3rem;
 }
 
 .infoEco2 {
@@ -108,5 +109,36 @@ h2 {
 
   .img-fluid {
     float: none;
+  }
+
+  .infoEco {
+    margin-bottom: 0 !important;
+    border-bottom: #2c3f6b 1px solid;
+  }
+  .infoEco2 {
+    border-top: #2c3f6b 1px solid;
+  }
+  .explicationRSE {
+    text-align: center;
+    margin-left: 0px;
+  }
+
+  #EolienneBg {
+    margin-top: 3rem;
+  }
+  #panneauxBg {
+    margin-top: 3rem;
+  }
+  #eco {
+    margin-top: 3rem;
+  }
+  #bio {
+    margin-top: 3rem;
+  }
+  .explicationRSE {
+    font-size: 20px !important;
+  }
+  * {
+    overflow-x: hidden;
   }
 }

@@ -58,3 +58,8 @@ h3 {
   font-size: 1.25vh !important;
   color: red !important;
 }
+@media screen and (max-width: 415px) {
+  * {
+    overflow-x: hidden;
+  }
+}

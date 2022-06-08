@@ -55,7 +55,7 @@
                 <a href="stockage.php" class="dropdown-item text-light" id="trans2" >Stockage</a>
                 <a href="logistique.php" class="dropdown-item text-light" id="trans3" >Logistique</a>
                 <a href="douane.php" class="dropdown-item text-light" id="trans4" >Douane</a>
-                <a href="grandfroid.php" class="dropdown-item text-light" id="trans5" >Grand-froids</a>
+                <a href="frigorifique.php" class="dropdown-item text-light" id="trans5" >Frigorifique</a>
               </div>
             </li>
             <li class="nav-item">

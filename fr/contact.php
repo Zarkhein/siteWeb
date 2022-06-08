@@ -88,9 +88,11 @@
           <img src="../img/webp/camionDelquignies.webp" alt="camion delquignies" class="img-fluid mt-5" id="photo">
           </div>
           <div class="text-white h3 mx-5" id="espace">
-            <p>30 Rue du Commandant Chaumonot - Mortagne du nord</p>
+            <p>30 Rue du Commandant Chaumonot</p>
+            <p>59158 Mortagne du Nord</p>
+            <img src="../img/webp/email.webp" alt="info" id="photoMail"/>
             <p>contact@delquignies.com</p>
-            <p>06 56 54 58 52</p>
+            <p>+33 (0)327 286 286</p>
           </div>
         </div>
       </div>

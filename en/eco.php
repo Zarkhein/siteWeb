@@ -30,14 +30,14 @@
     <meta name="DC.Author" content="Delquignies Logistique">
     <meta name="DC.Publisher" content="Delquignies Logistique">
     <meta name="DC.Identifier-Url" content="http://localhost/Delquignies-site/fr/eco.php">
-    <title>Eco-Responsable - Delquignies Logistique</title>
+    <title>Environmentally friendly - Delquignies Logistique</title>
   </head>
   <body onload="breadcrumbs('ecoId')">
     <?php include("php/header.php"); ?>
     <div class="space"></div>
     <div class="spaceBlue"></div>
     <div class="title text-center">
-      <h1 class="text-white my-5 title">Eco Responsable</h1>
+      <h1 class="text-white my-5 title">Environmentally</h1>
     </div>
     <div class="row">
         <div class="col-md-2">

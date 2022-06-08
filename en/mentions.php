@@ -1,11 +1,45 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <meta charset="UTF-8" />
+    <title>Terms and conditions - Delquignies Logistique</title>
+    <meta name="Content-Type" content="UTF-8" />
+    <meta name="Content-Language" content="fr" />
+    <meta name="Subject" content="Les mentions légales du site" />
+    <meta
+      name="Description"
+      content="Les mentions légales désignent les mentions obligatoires qui doivent apparaître sur tout support de communication."
+    />
+    <meta name="Copyright" content="Delquignies Logistique" />
+    <meta name="Author" content="Delquignies Logistique" />
+    <meta
+      name="Identifier-Url"
+      content="delquignies-site/fr/mentions-legales.php"
+    />
+    <meta name="Revisit-After" content="15 days" />
+    <meta name="Robots" content="all" />
+    <meta name="Rating" content="general" />
+    <meta name="Distribution" content="global" />
+    <meta name="Geography" content="Mortagne du nord,  France, 59158" />
+    <meta name="Category" content="environment" />
+    <meta name="DC.Content-Type" content="UTF-8" />
+    <meta name="DC.Content-Language" content="fr" />
+    <meta name="DC.Subject" content="Les mentions légales du site" />
+    <meta name="DC.Copyright" content="Delquignies Logistique" />
+    <meta name="DC.Author" content="Delquignies Logistique" />
+    <meta
+      name="DC.Identifier-Url"
+      content="delquignies-site/fr/mentions-legales.php"
+    />
+    <meta name="DC.Revisit-After" content="15 days" />
+    <meta name="DC.Robots" content="all" />
+    <meta name="DC.Rating" content="general" />
+    <meta name="DC.Distribution" content="global" />
+    <meta name="DC.Geography" content="Mortagne du nord,  France, 59158" />
+    <meta name="DC.Category" content="environment" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
     <link rel="stylesheet" href="../css/mentions.css" />
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon" />
   </head>
   <body>
     <?php include("php/header.php")?>
@@ -14,41 +48,32 @@
         <div class="col-sm-12 text-white">
           <h1>Terms and conditions</h1>
           <p>
-            Welcome to our site <strong>www.delquignies.com</strong>. Please
-            read carefully this legal notice before consulting site
-            <strong>www.delquignies.com</strong>. The conditions of using the
-            site are applicable to everybody who access to it, and defined as
-            "user" in this text.
+            Welcome to our site www.delquignies.com. Please read carefully this
+            legal notice before consulting site www.delquignies.com. The
+            conditions of using the site are applicable to everybody who access
+            to it, and defined as "user" in this text.
           </p>
           <h2>General Information</h2>
-          <p>
-            The site <strong>www.delquignies.com</strong> is published by SA
-            Delquignies.
-          </p>
+          <p>The site www.delquignies.com is published by SA Delquignies.</p>
           <div class="info">
+            <p>Legal form: S.A. au capital de 329 289,88 euro</p>
+            <p>SIRET number: 548 800 796 00011</p>
+            <p>Intra-Community VAT Number: FR 60 548 800 796</p>
             <p>
-              <strong>Legal form</strong>: S.A. with the capital 329 289,88 euro
+              Adress of the head office: BP 19, 59158 Mortagne du nord, France
             </p>
-            <p><strong>SIRET number</strong>: 548 800 796 00011</p>
-            <p>
-              <strong>Intra-Community VAT Number</strong>: FR 60 548 800 796
-            </p>
-            <p>
-              <strong>Adress of the head office</strong>: BP 19, 59158 Mortagne
-              du nord, France
-            </p>
-            <p><strong>Responsible of Publication</strong>: M. Delquignies</p>
+            <p>Responsible of Publication: M. Delquignies</p>
           </div>
           <p>
             Hosting of this web site is guaranteed by SA Delquignies. You can
             contact us :
           </p>
           <div class="info">
-            <p>By phone : 0033 (0)327 286 286</p>
-            <p>By fax : 0033 (0)327 286 287</p>
+            <p>by phone : au 0033 (0)327 286 286</p>
+            <p>by fax : 0033 (0)327 286 287</p>
             <p>
-              By mail at
-              <strong>contact@delquignies.com</strong>
+              by mail at
+              <img src="../img/webp/email.webp" alt="info" id="photoMail" />
             </p>
           </div>
           <h2>Copyright</h2>
@@ -72,13 +97,18 @@
             </li>
           </ul>
           <p>
+            Toute autre utilisation non expressément autorisée est strictement
+            interdite sans autorisation préalable et écrite de la SA
+            Delquignies.
+          </p>
+          <p>
             Any other use not allowed is strictly forbidden without written
             authorization of Delquignies. The picture representation presented
             on this site is the property of their authors. Their reproduction is
             forbidden without a special authorization. Credits pictures and
             icons: © SA Delquignies, © Iconfinder, © Stock.xchng.
           </p>
-          <h2>Responsability</h2>
+          <h2>Responsabilité</h2>
           <p>
             The totality of the information that is accessible by this site is
             available in its present state. Delquignies doesn't give any

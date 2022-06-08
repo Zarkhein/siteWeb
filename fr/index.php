@@ -57,7 +57,7 @@
       </div>
       <div class="container-fluid">
         <div class="row Article1">
-          <div class="col-md-6 my-5">
+          <div class="col-md-6">
             <p class="display-6 text-white quote">
               Prestataire logistique au service de l'industrie depuis 1867
             </p>

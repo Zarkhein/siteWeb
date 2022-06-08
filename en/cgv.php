@@ -1,11 +1,37 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
     <link rel="stylesheet" href="../css/mentions.css" />
+    <title>C.G.V</title>
+    <meta name="Content-Type" content="UTF-8">
+    <meta name="Content-Language" content="fr">
+    <meta name="Description" content="D'assurer la protection des intérêts de l'entreprise et de sa clientèle.">
+    <meta name="Keywords" content="Conditions Générales de ventes, CGV, objet, domaine, prix, prestations, assurance, marchandises, obligations, plombage, obligations, réserves, défaillance, formalités, douanières, livraison, remboursement, vigilance, responsabilité, paiement, retention, GAGE, prescription, resiliation, invalidité, juridiction">
+    <meta name="Subject" content="Conditions Générales de Vente">
+    <meta name="Copyright" content="Delquignies Logistique">
+    <meta name="Author" content="Delquignies Logistique">
+    <meta name="Identifier-Url" content="delquignies-site/fr/cgv.php">
+    <meta name="Revisit-After" content="15 days">
+    <meta name="Robots" content="all">
+    <meta name="Rating" content="general">
+    <meta name="Distribution" content="global">
+    <meta name="Category" content="environment">
+    <meta name="DC.Content-Type" content="UTF-8">
+    <meta name="DC.Content-Language" content="fr">
+    <meta name="DC.Description" content="D'assurer la protection des intérêts de l'entreprise et de sa clientèle.">
+    <meta name="DC.Keywords" content="Conditions Générales de ventes, CGV, objet, domaine, prix, prestations, assurance, marchandises, obligations, plombage, obligations, réserves, défaillance, formalités, douanières, livraison, remboursement, vigilance, responsabilité, paiement, retention, GAGE, prescription, resiliation, invalidité, juridiction">
+    <meta name="DC.Subject" content="Conditions Générales de Vente">
+    <meta name="DC.Copyright" content="Delquignies Logistique">
+    <meta name="DC.Author" content="Delquignies Logistique">
+    <meta name="DC.Identifier-Url" content="delquignies-site/fr/cgv.php">
+    <meta name="DC.Revisit-After" content="15 days">
+    <meta name="DC.Robots" content="all">
+    <meta name="DC.Rating" content="general">
+    <meta name="DC.Distribution" content="global">
+    <meta name="DC.Category" content="environment">
+    <link rel="shortcut icon" href="../img/logo.webp" type="image/x-icon">
   </head>
   <body>
     <?php include("php/header.php")?>
@@ -518,6 +544,6 @@
         </div>
       </div>
     </div>
-    <?php include("php/footer.php")?>
+    <?php include("php/footer2.php"); ?>
   </body>
 </html>

@@ -39,7 +39,7 @@
     <div class="container">
       <div class="row Titre">
         <div class="col-xs-12">
-          <h1 class="text-center text-white backgroundimg">Grand froid</h1>
+          <h1 class="text-center text-white backgroundimg">Frigorifique</h1>
         </div>
       </div>
       <div class="row Article mb-5">
@@ -49,7 +49,7 @@
             "Transport et stockage jusqu'a -18°c"
           </p>
           <p class="param text-white">
-            Chez <strong>Delquignies</strong> nous possédons véhicules et des entrepôts qui peuvent <strong>accueillir</strong> des livraisons à une température jusqu'à <strong>-18°c</strong>
+            Chez Delquignies nous <strong>possédons</strong> véhicules et des entrepôts qui peuvent <strong>accueillir</strong> des livraisons à une <strong>température</strong> jusqu'à <strong>-18°c</strong>
           </p>
         </div>
         <div class="col-md-6 mt-5 text-center">
