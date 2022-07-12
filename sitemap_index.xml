@@ -2,133 +2,133 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost/Delquignies-site/fr/index.php</loc>
+    <loc>http://delquignies.fr/fr/index.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/nosmetiers.php</loc>
+    <loc>http://delquignies.fr/fr/nosmetiers.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/transport.php</loc>
+    <loc>http://delquignies.fr/fr/transport.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/stockage.php</loc>
+    <loc>http://delquignies.fr/fr/stockage.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/logistique.php</loc>
+    <loc>http://delquignies.fr/fr/logistique.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/douane.php</loc>
+    <loc>http://delquignies.fr/fr/douane.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/nossites.php</loc>
+    <loc>http://delquignies.fr/fr/nossites.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/nosengagement.php</loc>
+    <loc>http://delquignies.fr/fr/nosengagement.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/mentions.php</loc>
+    <loc>http://delquignies.fr/fr/mentions.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/cgv.php</loc>
+    <loc>http://delquignies.fr/fr/cgv.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/fr/contact.php</loc>
+    <loc>http://delquignies.fr/fr/contact.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/index.php</loc>
+    <loc>http://delquignies.fr/en/index.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/nosmetiers.php</loc>
+    <loc>http://delquignies.fr/en/nosmetiers.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/transport.php</loc>
+    <loc>http://delquignies.fr/en/transport.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/stockage.php</loc>
+    <loc>http://delquignies.fr/en/stockage.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/logistique.php</loc>
+    <loc>http://delquignies.fr/en/logistique.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/douane.php</loc>
+    <loc>http://delquignies.fr/en/douane.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/nossites.php</loc>
+    <loc>http://delquignies.fr/en/nossites.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/nosengagement.php</loc>
+    <loc>http://delquignies.fr/en/nosengagement.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/mentions.php</loc>
+    <loc>http://delquignies.fr/en/mentions.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/cgv.php</loc>
+    <loc>http://delquignies.fr/en/cgv.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/Delquignies-site/en/contact.php</loc>
+    <loc>http://delquignies.fr/en/contact.html
     <lastmod>2022-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

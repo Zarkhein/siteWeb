@@ -28,9 +28,8 @@ html {
 }
 
 h2 {
-  color: ghostwhite;
-  background-image: url("../img/icon/rectangle2.svg");
-  background-repeat: no-repeat;
+  color: orange;
+  font-weight: 700 !important;
 }
 
 #EntreposageBg {

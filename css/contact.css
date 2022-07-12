@@ -34,7 +34,7 @@ html {
   margin-left: 5%;
 }
 
-.grp-info img {
+.grp-info-photo {
   margin-top: 10px;
   width: 32px;
   height: 32px;
@@ -60,6 +60,10 @@ html {
 
 #photoMail {
   margin-left: 5%;
+}
+
+#colorBg {
+  background-color: #2c3f6b;
 }
 
 @media screen and (max-width: 767px) {

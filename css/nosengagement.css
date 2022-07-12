@@ -18,6 +18,7 @@ h1 {
   color: ghostwhite;
   background-image: url("../img/icon/rectangle2.svg");
   background-repeat: no-repeat;
+  background-position: -4%;
 }
 
 h2 {
@@ -54,10 +55,6 @@ h2 {
   background-repeat: no-repeat;
   background-position: center;
   margin-top: 2% !important;
-}
-
-#coBg {
-  background-position: 3%;
 }
 
 .cdBg {
