@@ -1,3 +1,3 @@
 # siteWeb
 Site web en ligne
-### https://github.com/Zarkhein
+### (http://www.delquignies.fr/fr/)
